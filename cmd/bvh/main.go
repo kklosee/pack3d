@@ -8,7 +8,7 @@ import (
 	"strconv"
 
 	. "github.com/fogleman/fauxgl"
-	"github.com/fogleman/pack3d/pack3d"
+	"github.com/kklosee/pack3d/pack3d"
 )
 
 func main() {
