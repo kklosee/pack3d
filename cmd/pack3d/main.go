@@ -13,8 +13,8 @@ import (
 )
 
 const (
-	bvhDetail           = 16
-	annealingIterations = 20000000
+	bvhDetail           = 8
+	annealingIterations = 2000000
 )
 
 func timed(name string) func() {
